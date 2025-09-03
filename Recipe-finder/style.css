@@ -1,0 +1,21 @@
+#search{
+    padding: 10px;
+    background-color: rgb(255, 136, 0);
+    border-radius: 8px;
+
+}
+
+#searchBtn{
+    padding: 10px;
+    background-color: rgb(255, 136, 0);
+    border-radius: 8px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+#search:hover{
+    background-color: rgb(255, 94, 0);
+    cursor: pointer;
+}
